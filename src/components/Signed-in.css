@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.navv{
+    background-color: #f0f0f0;
+    text-align: right;
+    padding: 10px;
+}
+
+.navv a {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: bold;
+    font-size: 2.2vw;
+  }
+
+  .containn {
+    margin: 20px auto;
+    width: 300px;
+    text-align: center;
+  }
